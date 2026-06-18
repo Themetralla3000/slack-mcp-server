@@ -32,7 +32,7 @@ Share files from the local filesystem to Slack.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ArnauEncina/slack-mcp-server.git
+   git clone https://github.com/Themetralla3000/slack-mcp-server.git
    cd slack-mcp-server
    ```
 2. Install dependencies:
